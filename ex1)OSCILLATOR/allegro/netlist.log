@@ -1,0 +1,13 @@
+{ Using PSTWRITER 17.2.0 d001Aug-01-2019 at 10:11:17 }
+
+#1 WARNING(ORCAP-36006): Part Name "LM7912C/TO220_2_TO220AB_LM7912C/TO220" is renamed to "LM7912C/TO220_2_TO220AB_LM7912C".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\USER\DESKTOP\WORK\0801\EX1)OSCILLATOR\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\0801\EX1)OSCILLATOR\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\0801\EX1)OSCILLATOR\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\0801\EX1)OSCILLATOR\allegro/pstxnet.dat
+packaging the design view...

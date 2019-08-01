@@ -1,0 +1,26 @@
+OSCILLATOR  Revised: Thursday, August 01, 2019
+ELECTRONIC CAD, 2010.3.3          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials         August 1,2019      12:13:22	Page1
+
+Item	Quantity	Reference	Part	Price
+______________________________________________
+
+1	1	C1	270pF	100
+2	1	C2	0.001uF	100
+3	4	C3,C4,C5,C6	0.1uF	100
+4	1	J1	CON2	500
+5	1	J2	CON3	500
+6	8	R1,R2,R4,R5,R6,R7,R8,R9	10k	150
+7	1	R3	62k	150
+8	1	R10	1M	500
+9	1	R11	100k	150
+10	4	U1,U2,U3,U4	LF351	300
+11	1	U5	LM7812/TO	800
+12	1	U7	LM7912C/TO220	800

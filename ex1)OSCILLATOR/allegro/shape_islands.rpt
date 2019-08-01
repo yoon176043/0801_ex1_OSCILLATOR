@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : OSCILLATOR.brd                                )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Thu Aug 01 11:46:55 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 3
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (76.9502 49.7849)  Net: GND
+	Point on shape: (28.6902 47.2449)  Net: GND
+	Point on shape: (2.6552 39.2498)  Net: GND

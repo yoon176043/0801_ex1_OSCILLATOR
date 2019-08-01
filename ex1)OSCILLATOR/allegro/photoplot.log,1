@@ -1,0 +1,361 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : OSCILLATOR.brd                                )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Thu Aug 01 10:19:36 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
+
+ WARNING: Generating english output data from a metric database
+ may cause slight roundoff error of coordinates in output file.
+
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/0801/EX1)OSCILLATOR/allegro/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/0801/EX1)OSCILLATOR/allegro/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < Design >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/0801/EX1)OSCILLATOR/allegro/gerber/Design.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains layer ROUTE KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+           
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: more than one etch class in film record
+    WARNING: rectangle or unfilled shape composed 0 width line found at (1.5748 -13.4263) in MM
+           ... ignored.
+
+    WARNING: text composed 0 width line found at (1.5748 -14.9503) in MM
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: 0 width line found at (2.4892 80.3632) in MM
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     Design created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkTop >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/0801/EX1)OSCILLATOR/allegro/gerber/SilkTop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+
+     SilkTop created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkBot >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/0801/EX1)OSCILLATOR/allegro/gerber/SilkBot.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     SilkBot created with warnings
+
+
+================================================================
+     PROCESSING FILM < SoldermaskTop >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/0801/EX1)OSCILLATOR/allegro/gerber/SoldermaskTop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.14500                                  DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     SoldermaskTop created with warnings
+
+
+================================================================
+     PROCESSING FILM < SoldermaskBottom >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/0801/EX1)OSCILLATOR/allegro/gerber/SoldermaskBottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.14500                                  DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     SoldermaskBottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < MetalBot >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/0801/EX1)OSCILLATOR/allegro/gerber/MetalBot.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     MetalBot created with warnings
+
+
+================================================================
+     PROCESSING FILM < MetalTop >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/0801/EX1)OSCILLATOR/allegro/gerber/MetalTop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     MetalTop created with warnings
+
+
+================================================================
+     PROCESSING FILM < DrillDraw >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/0801/EX1)OSCILLATOR/allegro/gerber/DrillDraw.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+
+     DrillDraw created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        Design created with warnings
+        SilkTop created with warnings
+        SilkBot created with warnings
+        SoldermaskTop created with warnings
+        SoldermaskBottom created with warnings
+        MetalBot created with warnings
+        MetalTop created with warnings
+        DrillDraw created with warnings
+
+ ARTWORK had warnings
